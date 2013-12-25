@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 files=("BabelExt.js" "extension.js" "zepto.min.js" "rsvp.js" "betterzoom.css")
 paths=("Chrome" "Firefox/data" "Opera" "Safari.safariextension")
 
