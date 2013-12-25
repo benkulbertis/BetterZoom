@@ -11,11 +11,12 @@ background-image: url(data:image/gif;base64,R0lGODlhGAAYAPYAAGZmZmhoaHNzc3R0dHx8
   position: absolute;
   margin: 0;
   padding: 0;
-  border: 3px solid #ccc;
+  border: 3px solid #fff;
+  border-radius: 3px;
   z-index: 10000;
+  box-shadow: 0 0 6px 0 #666;
 }
 
 .BetterZoom-container img {
   border: 0;
-  box-shadow: 0 0 6px 0 #666;
 }
